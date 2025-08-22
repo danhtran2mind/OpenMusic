@@ -126,7 +126,7 @@ nvidia-nvjitlink-cu12==12.3.101
 nvidia-nvtx-cu11==11.7.91
 nvidia-nvtx-cu12==12.1.105
 oauthlib==3.2.2
-omegaconf==2.0.6
+omegaconf==5.1
 packaging==23.2
 pandas==2.1.3
 parso==0.8.3
@@ -229,7 +229,7 @@ webdataset==0.2.75
 websockets==12.0
 Werkzeug==3.0.1
 wget==3.2
-xformers==0.0.26.post1
+xformers==0.0.30
 yarl==1.9.2
 yt-dlp==2024.4.9
 zipp==3.17.0
